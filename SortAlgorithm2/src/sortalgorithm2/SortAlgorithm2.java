@@ -9,6 +9,7 @@ import static sortalgorithm2.Sorts.selectionSort;
 public class SortAlgorithm2 {
 
     public static void main(String[] args) {
+        System.out.println("1");
         Scanner input = new Scanner(System.in);
         Random randNum = new Random();
         final int arrLength = 20;
